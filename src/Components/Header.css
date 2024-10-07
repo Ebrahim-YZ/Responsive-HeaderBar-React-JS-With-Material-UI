@@ -1,0 +1,13 @@
+/* Header.css */
+.header {
+    /* Default styles for larger screens */
+    background-color: white;
+    color: #000000;
+  }
+  
+  @media (max-width: 768px) {
+    .header {
+      background-color: white;
+      color: #000000;
+    }
+  }
